@@ -91,4 +91,5 @@ class IntervalTest {
         Interval i3 = Interval.intersect(i, i2);
         assertEquals("(2.2,2.5)", i3.toString());
     }
+
 }

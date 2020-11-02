@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="578b1f43-a7b6-4278-a02f-5aaaaefdfb1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rpr-t2-z2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rpr-t2-z2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/tutorijal02/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/tutorijal02/IntervalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ba/unsa/etf/rpr/tutorijal02/IntervalTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jentjJCxP9T2mKj3B5FA269BGz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="IntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-t2-z2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.tutorijal02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr.tutorijal02" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.tutorijal02.IntervalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IntervalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="578b1f43-a7b6-4278-a02f-5aaaaefdfb1c" name="Default Changelist" comment="" />
+      <created>1604173660571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604173660571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="284" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604252348508">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="284" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604252348508" />
+    <state width="1591" height="188" key="GridCell.Tab.0.bottom" timestamp="1604318420934">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1591" height="188" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604318420934" />
+    <state width="1591" height="188" key="GridCell.Tab.0.center" timestamp="1604318420933">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1591" height="188" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604318420933" />
+    <state width="1591" height="188" key="GridCell.Tab.0.left" timestamp="1604318420933">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1591" height="188" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604318420933" />
+    <state width="1591" height="188" key="GridCell.Tab.0.right" timestamp="1604318420933">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1591" height="188" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604318420933" />
+    <state width="1591" height="320" key="GridCell.Tab.1.bottom" timestamp="1604256333204">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1591" height="320" key="GridCell.Tab.1.bottom/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604256333204" />
+    <state width="1591" height="320" key="GridCell.Tab.1.center" timestamp="1604256333203">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1591" height="320" key="GridCell.Tab.1.center/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604256333203" />
+    <state width="1591" height="320" key="GridCell.Tab.1.left" timestamp="1604256333203">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1591" height="320" key="GridCell.Tab.1.left/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604256333203" />
+    <state width="1591" height="320" key="GridCell.Tab.1.right" timestamp="1604256333204">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1591" height="320" key="GridCell.Tab.1.right/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604256333204" />
+    <state x="535" y="422" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604251130422">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="535" y="422" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1050/1680.0.1920.1080@0.0.1680.1050" timestamp="1604251130422" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rpr_t2_z2$IntervalTest.ic" NAME="IntervalTest Coverage Results" MODIFIED="1604318197813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ba.unsa.etf.rpr.tutorijal02.*</FILTER>
+    </SUITE>
+  </component>
+</project>
